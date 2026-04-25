@@ -1,3 +1,5 @@
+# Introduction
+
 The AI-Powered Task Dependency Manager is a full-stack application designed to convert a high-level project description into a structured task dependency graph. The system leverages a Large Language Model (LLM) to automatically extract tasks and their relationships, ensuring a logical and valid execution flow.
 The generated tasks are visualized using an interactive graph interface, allowing users to understand project structure and dependencies intuitively.
 
